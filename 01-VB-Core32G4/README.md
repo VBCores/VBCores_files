@@ -42,11 +42,8 @@ h development and production stages. Any embedded software developer can use thi
 
 
 ## SWD Interface
-{{% columns %}}
 
-[![SWDIO](./images/VB32G4_SWDIO_200x176.png)](./images/VB32G4_SWDIO.png)
-<--->
-
+JST GH1.25, 6pin
 
 | Pin      | Is           | 
 | -------- | -------------|
@@ -57,7 +54,7 @@ h development and production stages. Any embedded software developer can use thi
 | 5        | TX USART2    |
 | 6        | RX USART2    |
 
-{{% /columns %}}
+
 
 
 
