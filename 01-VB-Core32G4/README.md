@@ -57,7 +57,7 @@ JST GH1.25, 6pin
 
 ### Photos
 <p float="left">
-<img src="VBCore32G4-1.jpg" width="200"> <img src="VBCore32G4-2.jpg" width="200">
+<img src="VBCore32G4-1.jpg" width="300"> <img src="VBCore32G4-2.jpg" width="300">
 </p>
 
 
