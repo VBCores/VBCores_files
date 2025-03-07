@@ -1,4 +1,4 @@
-### VBCores BLDC motor driver
+# VBCores BLDC motor driver
 
 ## Overview
 The VBCores BLDC driver is an advanced solution for controlling sensored brushless DC motors. It supports a 3-phase Hall sensor as well as absolute encoders with SPI or I2C interfaces. The device is equipped with Hall-effect current sensors on all three phases. Operating at 40kHz with FOC, it ensures low response times for smooth and efficient motor control.
