@@ -1,10 +1,11 @@
 ### VBCores BLDC motor driver
+
 ## Overview
 The VBCores BLDC driver is an advanced solution for controlling sensored brushless DC motors. It supports a 3-phase Hall sensor as well as absolute encoders with SPI or I2C interfaces. The device is equipped with Hall-effect current sensors on all three phases. Operating at 40kHz with FOC, it ensures low response times for smooth and efficient motor control.
 
 Based on [VB32G4 controller](https://github.com/VBCores/VBCores_files/tree/main/01-VB-Core32G4) 
 
-## Features
+### Features
 - **Driver IC:** TI DRV8328B 
 - **3-phase current sensing**
 - **Interfaces:**
@@ -14,15 +15,15 @@ Based on [VB32G4 controller](https://github.com/VBCores/VBCores_files/tree/main/
 - **256-Kbit I2C EEPROM**
 - **IO**: 8bit dip-switch, 6 bits are available at solder-on pads together with 5V and 3.3V.
 
-## Specs
+### Specs
 - **Power Input**: 9-60V
 - **Phase Current**: 30A
   
-## Dimensions
+### Dimensions
 - PCB: 51x56 mm
 - Mount holes: 45x50 mm
 
-### Datasheet
+#### Datasheet
 ![VBCores BLDC motor driver](VB_BLDC_1_2_scheme_png.png)
 
 
@@ -39,7 +40,7 @@ JST GH1.25, 6pin
 | 5        | TX USART2    |
 | 6        | RX USART2    |
 
-## Development Resources
+### Development Resources
 
 
 
