@@ -1,4 +1,4 @@
-# VBCores CAN-FD HAT
+# PowerBoard
 
 ## Overview
 The VBCores PowerBoard is an advanced solution for powering up your hardware. It provides multiple power inputs, sophisticated protection features, power system status monitoring, and basic user IO.
