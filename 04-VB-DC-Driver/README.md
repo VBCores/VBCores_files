@@ -1,4 +1,4 @@
-### VBCores DC motor driver
+# VBCores DC motor driver
 
 ## Overview
 The VBCores DC driver is an advanced solution for controlling brushed DC motors. It supports an ABZ encoder as well as absolute encoders with SPI or I2C interfaces. 
