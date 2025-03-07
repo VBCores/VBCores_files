@@ -19,7 +19,8 @@ Based on [VB32G4 controller](https://github.com/VBCores/VBCores_files/tree/main/
 - **Phase Current**: 30A
   
 ## Dimensions
-- 
+- PCB: 51x56 mm
+- Mount holes: 45x50 mm
 
 ### Datasheet
 ![VBCores BLDC motor driver](VB_BLDC_1_2_scheme_png.png)
@@ -45,8 +46,8 @@ JST GH1.25, 6pin
 
 ### Photos
 <p float="left">
-<img src="03-VB-BLDC-Driver/vb-bldc-driver-v1_2-1.jpg" width="300">
-<img src="03-VB-BLDC-Driver/vb-bldc-driver-v1_2-2.jpg" width="300">
+<img src="vb-bldc-driver-v1_2-1.jpg" width="300">
+<img src="vb-bldc-driver-v1_2-2.jpg" width="300">
 </p>
 
 
