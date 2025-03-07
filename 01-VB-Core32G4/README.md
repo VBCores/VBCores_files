@@ -4,7 +4,7 @@
 The VBCores VB32G4 combines the processing power and rich peripherals of an STM32G474RE microcontroller with an 60V input power supply and FDCAN transceiver, all in a tiny (30.48mm x 38.1mm) form factor suitable for integration into products. It provides an affordable, convenient and flexible way to create electronic hardware in bot
 h development and production stages. Any embedded software developer can use this device with ease thanks to compatibility with Arduino IDE (STM32duino), STM32Cube and all other products compatible with STM32G4 MCUs.
 
-[![VB32G4 Schematic](https://raw.githubusercontent.com/VBCores/VBCores_files/refs/heads/main/01-VB-Core32G4/Vbcore-G474RE-print_v1_3.png)](https://raw.githubusercontent.com/VBCores/VBCores_files/refs/heads/main/01-VB-Core32G4/Vbcore-G474RE-print_v1_3.png)
+![VBCore VB32G4 Datadheet](Vbcore-G474RE-print_v1_3.png)
 
 ### What's On Board
  1. **STM32G474RE:** the high performance STM32 MCU which features:
@@ -38,7 +38,7 @@ h development and production stages. Any embedded software developer can use thi
 
 ### Schematic
 
-[![VB32G4 Schematic](https://raw.githubusercontent.com/VBCores/VBCores_files/refs/heads/main/01-VB-Core32G4/VBCore32G4_schematic.png)](https://raw.githubusercontent.com/VBCores/VBCores_files/refs/heads/main/01-VB-Core32G4/VBCore32G4_schematic.png)
+![VBCore VB32G4 Schematic](VBCore32G4_schematic.png)
 
 
 ## SWD Interface
@@ -55,6 +55,10 @@ JST GH1.25, 6pin
 | 6        | RX USART2    |
 
 
+### Photos
+<p float="left">
+<img src="VBCore32G4-1.jpg" width="200"> <img src="VBCore32G4-2.jpg" width="200">
+</p>
 
 
 
