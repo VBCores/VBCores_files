@@ -30,9 +30,9 @@ The CAN FD HAT provides the ability to connect Raspberry Pi to the CAN FD bus. T
 
 ### Photos
 <p float="left">
-<img src="vb-rpi-can-hat-1.jpg" width="300">
-<img src="vb-rpi-can-hat-2.jpg" width="300">
-<img src="vb-rpi-can-hat-3.jpg" width="300">
+<img src="vb-rpi-can-hat-1.jpg" width="200">
+<img src="vb-rpi-can-hat-2.jpg" width="200">
+<img src="vb-rpi-can-hat-3.jpg" width="200">
 </p>
 
 
