@@ -1,7 +1,7 @@
-# VBCores DC motor driver
+# VBCores stepper motor driver
 
 ## Overview
-The VBCores stepper driver is an advanced solution for controlling sensored stepper motors. It supports an ABZ encoder as well as absolute encoders with SPI or I2C interfaces. High-end TMC5160 driver IC ensures efficient and silent operation.
+The VBCores stepper motor driver is an advanced solution for controlling sensored stepper motors. It supports an ABZ encoder as well as absolute encoders with SPI or I2C interfaces. High-end TMC5160 driver IC ensures efficient and silent operation.
 
 Based on [VB32G4 controller](https://github.com/VBCores/VBCores_files/tree/main/01-VB-Core32G4) 
 
