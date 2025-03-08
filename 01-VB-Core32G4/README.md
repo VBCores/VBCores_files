@@ -1,4 +1,4 @@
-# VBCore VB32G422
+# VBCore VB32G4
 
 ## Overview
 The VBCores VB32G4 combines the processing power and rich peripherals of an STM32G474RE microcontroller with an 60V input power supply and FDCAN transceiver, all in a tiny (30.48mm x 38.1mm) form factor suitable for integration into products. It provides an affordable, convenient and flexible way to create electronic hardware in bot
