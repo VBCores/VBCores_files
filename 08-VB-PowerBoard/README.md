@@ -5,7 +5,14 @@ The VBCores PowerBoard is an advanced solution for powering up your hardware. It
 
 Based on [VB32G4 controller](https://github.com/VBCores/VBCores_files/tree/main/01-VB-Core32G4) 
 
+
+
+
 ## Description
+
+![VBCores Powerboard 30A](vb-power-board-v1_2-scheme-png.png)
+
+
 ### Power inputs and outputs
 The Powerboard draws power from one of three parallel channels: two "main" high-current inputs and one low-current "auxiliary" channel.
 All three channels feature reverse polarity protection. Only one channel can be enabled at a time.
@@ -56,9 +63,7 @@ Out of the box software implements power and buzzer control only. For detailed d
 - Mount holes: 55x45 mm D2.5
 
 
-#### Datasheet
-![VBCores Raspberry PI CAN FD HAT](VB-CANFD-RPi-Hat-v1_0-scheme-png.png)
-s
+
 
 ### Development Resources
 
