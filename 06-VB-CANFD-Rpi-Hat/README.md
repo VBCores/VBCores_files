@@ -18,6 +18,9 @@ The CAN FD HAT provides the ability to connect Raspberry Pi to the CAN FD bus. T
 - PCB: 65x56 mm
 - Mount holes: 58x49 mm D2.5
 
+### Schematic
+![VBCores Raspberry PI CAN FD HAT](VB-CANFD-Rpi-Hat-v1_0-schematic.png)
+
 #### Datasheet
 ![VBCores Raspberry PI CAN FD HAT](VB-CANFD-RPi-Hat-v1_0-scheme-png.png)
 
