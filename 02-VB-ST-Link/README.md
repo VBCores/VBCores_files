@@ -11,6 +11,8 @@ Additionally, a [small adapter board](https://github.com/VBCores/VBCores_files/t
 ### Datasheet
 ![VB STM32 programmer](VB_STLink_21_v1_2_scheme.png)
 
+### Schematic
+![VBCores STLINK21](STLINK_21_R1_3_schematic.png)
 
 ### SWD Interface
 
