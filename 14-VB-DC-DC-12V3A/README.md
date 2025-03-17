@@ -14,4 +14,4 @@ Efficient 12V 3A DCDC converter for powering on-board computer and low-voltage d
 - Mount holes: M3 30x30 mm
 
 ### Schematic
-![VBCores DCDC12V3A](dcdc12V3A_v1_0.png)
+![VBCores DCDC12V3A](dcdc12V3A_v1_0_schematic.png)
