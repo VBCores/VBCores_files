@@ -24,6 +24,10 @@ Based on [VB32G4 controller](https://github.com/VBCores/VBCores_files/tree/main/
 - PCB: 51x56 mm
 - Mount holes: 45x50 mm
 
+
+### Schematic
+![VBCores Stepper motor driver TMC5160](VB_stepper_1_1_schematic.png)
+
 #### Datasheet
 ![VBCores Stepper motor driver TMC5160](VB_Stepper_Driver_v1_1_scheme_png.png)
 

@@ -62,6 +62,9 @@ Out of the box software implements power and buzzer control only. For detailed d
 - PCB: 61x51 mm
 - Mount holes: 55x45 mm D2.5
 
+### Schematic
+![VBCore PowerBoard_V1_2 Schematic](vb_powerboard-v1_2-schematic.png)
+
 
 
 

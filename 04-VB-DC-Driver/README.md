@@ -25,6 +25,9 @@ Based on [VB32G4 controller](https://github.com/VBCores/VBCores_files/tree/main/
 - PCB: 51x56 mm
 - Mount holes: 45x50 mm
 
+### Schematic
+![VBCores DC motor driver](VB_DC_1_2_schematic.png)
+
 #### Datasheet
 ![VBCores DC motor driver](VB_DC-Driver_1_2_scheme_png.png)
 

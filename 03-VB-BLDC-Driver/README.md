@@ -23,6 +23,9 @@ Based on [VB32G4 controller](https://github.com/VBCores/VBCores_files/tree/main/
 - PCB: 51x56 mm
 - Mount holes: 45x50 mm
 
+### Schematic
+![VBCores BLDC motor driver](VB_BLDC_1_3_schematic.png)
+
 #### Datasheet
 ![VBCores BLDC motor driver](VB_BLDC_1_2_scheme_png.png)
 
