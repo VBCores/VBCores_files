@@ -1,4 +1,4 @@
-# VBCores DC motor driver
+# VBCores DC motor driver v1.3
 
 ## Overview
 The VBCores DC driver is an advanced solution for controlling brushed DC motors. It supports an ABZ encoder as well as absolute encoders with SPI or I2C interfaces. 
@@ -25,14 +25,15 @@ Based on [VB32G4 controller](https://github.com/VBCores/VBCores_files/tree/main/
 - PCB: 51x56 mm
 - Mount holes: 45x50 mm
 
+#### Pinout
+![VBCores DC motor driver](VB_DC-Driver_1_3_pinout.png)
+
 ### Schematic
-![VBCores DC motor driver](VB_DC_1_2_schematic.png)
-
-#### Datasheet
-![VBCores DC motor driver](VB_DC-Driver_1_2_scheme_png.png)
+![VBCores DC motor driver](VB_DC_1_3_schematic.png)
 
 
-### SWD Interface
+
+### SWD Interface for VBCore32G4
 
 JST GH1.25, 6pin
 
@@ -49,12 +50,22 @@ JST GH1.25, 6pin
 
 
 
-
 ### Photos
 <p float="left">
-<img src="vb-dc-driver-v1_1-1.jpg" width="300">
-<img src="vb-dc-driver-v1_1-2.jpg" width="300">
+<img src="vb-dc-driver-v1_3-1.jpg" width="300">
+<img src="vb-dc-driver-v1_3-2.jpg" width="300">
+<img src="vb-dc-driver-v1_3-3.jpg" width="300">
+<img src="vb-dc-driver-v1_3-4.jpg" width="300">
 </p>
+
+### 3D model
+
+STEP model: [vb-dc-driver-v1_3-cad.stp](vb-dc-driver-v1_3-cad.stp)
+<p float="left">
+<img src="vb-dc-driver-v1_3-render-1.png" width="300">
+<img src="vb-dc-driver-v1_3-render-2.png" width="300">
+</p>
+
 
 
 
