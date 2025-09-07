@@ -66,7 +66,7 @@ JST GH1.25, 6pin
 
 ### Photos
 <p float="left">
-<img src="vb-imu-bhi360-1" width="300">
+<img src="vb-imu-bhi360-1.jpg" width="300">
 <img src="vb-imu-bhi360-2.jpg" width="300">
 </p>
 
