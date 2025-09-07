@@ -4,6 +4,10 @@ The VBCores BHI360 is an advanced 9-DOF Absolute Orientation IMU based on Bosch 
 The most important part of the IMU is the software running raw sensors data processing. Bosch provides [Sensor fusion software (BSX)](https://www.bosch-sensortec.com/media/boschsensortec/downloads/application_notes_1/bst-bhi260_bhi360-an002.pdf) framework which runs on the BHI360 and integrates data from different sensor sources, mitigating the limitations of individual sensors, such as noise, bias, and drift, thereby offering a more reliable information. Communication with the BSX is possible with the help of [BHy2 SensorAPI](https://github.com/boschsensortec/BHY2_SensorAPI). Unfortunately, it's build around Bosch [COINES SDK](https://www.bosch-sensortec.com/software-tools/tools/coines/) and cannot be run directly on Arduino or STM32. For Arduino, we recommend using [SensorLib](https://github.com/lewisxhe/SensorLib), example of STM32 application can be found on our [github](https://github.com/Dmivaka/STM32-HAL-BHI360).
 Since I2C and SPI are not very common on powerfull x86 computers, we also developed USB bridge which handles all the stuff related to communication with the sensor and works as a USB device. It's fully compliant with USB HID Sensor specification and works in plug-and-play fashion on all modern OS.
 
+## VB IMU Module (Assembled)
+![VBCore BHI360 module](vb-imu-bhi360-pinout.png) 
+
+
 ## Sensor Features
 - **Supply voltage**: 3.3V
 - **Interfaces:**
