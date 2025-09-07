@@ -28,7 +28,7 @@ Based on [VB32G4 controller](https://github.com/VBCores/VBCores_files/tree/main/
 ![VBCores Stepper motor driver TMC5160 pinout](VB_Stepper_Driver_v1_2_pinout.png)
 
 ### Schematic
-![VBCores Stepper motor driver TMC5160 schematic](VB_stepper_1_2_schematic.png)
+![VBCores Stepper motor driver TMC5160 schematic](VB_Stepper_1_2_schematic.png)
 
 
 ### SWD Interface
