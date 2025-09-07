@@ -1,4 +1,4 @@
-# VBCores stepper motor driver
+# VBCores stepper motor driver v1.2
 
 ## Overview
 The VBCores stepper motor driver is an advanced solution for controlling sensored stepper motors. It supports an ABZ encoder as well as absolute encoders with SPI or I2C interfaces. High-end TMC5160 driver IC ensures efficient and silent operation.
@@ -10,26 +10,25 @@ Based on [VB32G4 controller](https://github.com/VBCores/VBCores_files/tree/main/
 - **Driver IC:** TRINAMIC TMC5160 with SPI interface
 - **Noiseless operation**
 - **Interfaces:**
-	- Full-duplex SPI master
+	- Full-duplex SPI master / or GPIO
 	- ABZ incremental encoder
 	- I2C with optional power supply: 5V / 3.3V
 - **256-Kbit I2C EEPROM**
 - **IO**: 8bit dip-switch, 6 bits are available at solder-on pads together with 5V and 3.3V.
 
 ## Specs
-- **Power Input**: 9-60V
+- **Power Input**: 9-50V
 - **Phase Current**: 10A
   
 ### Dimensions
 - PCB: 51x56 mm
 - Mount holes: 45x50 mm
 
+#### Pinout
+![VBCores Stepper motor driver TMC5160 pinout](VB_Stepper_Driver_v1_2_pinout.png)
 
 ### Schematic
-![VBCores Stepper motor driver TMC5160](VB_stepper_1_1_schematic.png)
-
-#### Datasheet
-![VBCores Stepper motor driver TMC5160](VB_Stepper_Driver_v1_1_scheme_png.png)
+![VBCores Stepper motor driver TMC5160 schematic](VB_stepper_1_2_schematic.png)
 
 
 ### SWD Interface
@@ -52,12 +51,20 @@ JST GH1.25, 6pin
 
 ### Photos
 <p float="left">
-<img src="vb-stepper-driver-v1_1-1.jpg" width="300">
-<img src="vb-stepper-driver-v1_1-2.jpg" width="300">
+<img src="vb-stepper-driver-v1_2-1.jpg" width="300">
+<img src="vb-stepper-driver-v1_2-2.jpg" width="300">
+<img src="vb-stepper-driver-v1_2-3.jpg" width="300">
+<img src="vb-stepper-driver-v1_2-4.jpg" width="300">
 </p>
 
 
+### 3D model
 
+STEP model: [vb-stepper-driver-v1_2-cad.stp](vb-stepper-driver-v1_2-cad.stp)
+<p float="left">
+<img src="vb-stepper-driver-v1_2-render-1.png" width="300">
+<img src="vb-stepper-driver-v1_2-render-2.png" width="300">
+</p>
 
 
 
