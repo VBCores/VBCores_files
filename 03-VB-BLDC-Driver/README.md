@@ -58,7 +58,13 @@ JST GH1.25, 6pin
 </p>
 
 
+### 3D model
 
+STEP model: [vb-bldc-driver-v1_4.stp](vb-bldc-driver-v1_4.stp)
+<p float="left">
+<img src="vb-bldc-driver-v1_4-render-1.png" width="300">
+<img src="vb-bldc-driver-v1_4-render-2.png" width="300">
+</p>
 
 
 
