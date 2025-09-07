@@ -10,9 +10,9 @@ Since I2C and SPI are not very common on powerfull x86 computers, we also develo
 	- I2C (up to 3.4 MHz)
 	- SPI (up to 50 MHz)
 - **Available virtual sensors:**
-	- 3-axis accelerometer
-	- 3-axis gyroscope
-	- 3-axis magnetometer
+	- 3-axis accelerometer 	(16 bit)
+	- 3-axis gyroscope (16 bit)
+	- 3-axis magnetometer (	16 bit)
 	- Gravity vector
 	- Rotation vector
 	- Game rotation vector
@@ -22,6 +22,9 @@ Since I2C and SPI are not very common on powerfull x86 computers, we also develo
 ### Dimensions
 - PCB: 20 x 10.5mm
 
+### Sensor Schematic
+![VBCore BHI360 sensor schematic](vb-imu-bhi360-sensor_schematic.png)
+
 ## USB Bridge Features
 - **Interfaces:** USB 1.1, USB-C connector
 - **Default virtual sensors:**
@@ -30,11 +33,42 @@ Since I2C and SPI are not very common on powerfull x86 computers, we also develo
 	- Game rotation vector
 
 ### Dimensions
-- PCB: 36x36 mm
-- Mount holes: M2.5 30x30 mm 
+- PCB: 46x46 mm
+- Mount holes: M2.5 40x40 mm 
 
-### Sensor Schematic
-![VBCore BHI360 sensor schematic](vb-imu-bhi360-sensor_schematic.png)
-
-### Bridge Schematic
+### USB Bridge Schematic
 ![VBCore BHI360 bridge schematic](vb-imu-bhi360-bridge_schematic.png)
+
+### VBCore32G4 module
+![VBCore32G4 controller page](https://github.com/VBCores/VBCores_files/tree/main/01-VB-Core32G4) 
+
+### SWD Interface
+
+JST GH1.25, 6pin
+
+| Pin      | Is           | 
+| -------- | -------------|
+| 1        | GND          |
+| 2        | 5V           |
+| 3        | SWCLK        |
+| 4        | SWDIO        |
+| 5        | TX USART2    |
+| 6        | RX USART2    |
+
+### Development Resources
+
+
+
+
+### Photos
+<p float="left">
+<img src="vb-imu-bhi360-1" width="300">
+<img src="vb-imu-bhi360-2.jpg" width="300">
+</p>
+
+### 3D model
+STEP model: [vb-imu-bhi360-asm.stp](vb-imu-bhi360-asm.stp)
+<p float="left">
+<img src="vb-imu-bhi360-render_1.png" width="300">
+<img src="vb-imu-bhi360-render_2.png" width="300">
+</p>
