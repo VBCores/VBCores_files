@@ -44,7 +44,7 @@ Since I2C and SPI are not very common on powerfull x86 computers, we also develo
 ![VBCore BHI360 bridge schematic](vb-imu-bhi360-bridge_schematic.png)
 
 ### VBCore32G4 module
-![VBCore32G4 controller page](https://github.com/VBCores/VBCores_files/tree/main/01-VB-Core32G4) 
+[VBCore32G4 controller page](https://github.com/VBCores/VBCores_files/tree/main/01-VB-Core32G4) 
 
 ### SWD Interface
 
