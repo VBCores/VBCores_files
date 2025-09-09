@@ -14,20 +14,8 @@ by ensuring the boot configuration <span style="color:#FF9900">solder jumps are 
 
 The Linux driver and ROS packages are available on documentation pages at www.vbcores.com or www.vbcores.ru. 
 
-## VB IMU Module (Assembled)
+## VBCores IMU BNO055 USB-UART Bridge assembled
 ![VBCore BNO055 USB-UART Bridge](vb-imu-bno055-bridge-pinout.png) 
-
-
-## Sensor Features
-The BNO055 is a System in Package (SiP), integrating a triaxial 14-bit accelerometer, a triaxial 16-bit gyroscope with a range of ±2000 degrees per second, a triaxial geomagnetic sensor and a 32-bit cortex M0+ microcontroller running Bosch Sensortec sensor fusion software, in a single package.  For comprehensive details, please read the official manufacturer documentation.
-Sensor sold separetly on popular marketplaces.
-
-### Dimensions
-- PCB: 20 x 10.5mm
-
-### Sensor Schematic
-![OEM sensor BNO055 schematic](BNO055-pinout-mischianti-pinout.jpg)
-
 
 ## USB Bridge Features
 - **Interfaces:** USB 1.1, USB-C connector
@@ -45,17 +33,27 @@ Sensor sold separetly on popular marketplaces.
 BNO055 read serial: https://github.com/VBCores/bno055-serial
 
 
-
-### Photos
+## Photos
 <p float="left">
 <img src="vb-imu-bno055-1.jpg" width="300">
 <img src="vb-imu-bno055-2.jpg" width="300">
 <img src="vb-imu-bno055-3.jpg" width="300">
 </p>
 
-### 3D model
+## 3D model
 STEP model: [vb-imu-bno055-asm.stp](vb-imu-bno055-asm.stp)
 <p float="left">
 <img src="vb-imu-bno055-bridge-render-1.png" width="300">
 <img src="vb-imu-bno055-bridge-render-2.png" width="300">
 </p>
+
+## Sensor Features
+The BNO055 is a System in Package (SiP), integrating a triaxial 14-bit accelerometer, a triaxial 16-bit gyroscope with a range of ±2000 degrees per second, a triaxial geomagnetic sensor and a 32-bit cortex M0+ microcontroller running Bosch Sensortec sensor fusion software, in a single package.  For comprehensive details, please read the official [manufacturer documentation](BNO055_datasheet.pdf).
+Sensor sold separetly on popular marketplaces.
+
+### Dimensions
+- PCB: 20 x 10.5mm
+
+
+### OEM BNO055 Sensor Schematic
+![OEM sensor BNO055 schematic](BNO055-pinout-mischianti-pinout.jpg)
