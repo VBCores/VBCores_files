@@ -25,11 +25,12 @@ Based on [VB32G4 controller](https://github.com/VBCores/VBCores_files/tree/main/
 
 
 #### Datasheet
-![VBCores BLDC motor driver](VB_BLDC_1_4_scheme_png.png)
+![VBCores BLDC motor driver](vb-bldc-driver-v1_4-pinout.png)
+PDF version: [vb-bldc-driver-v1_4-pinout.pdf](vb-bldc-driver-v1_4-pinout.pdf)
 
 ### Schematic
-![VBCores BLDC motor driver](VB_BLDC_1_4_schematic_png.png)
-
+![VBCores BLDC motor driver](vb-bldc-driver-v1_4-schematic.png)
+PDF version: [vb-bldc-driver-v1_4-schematic.pdf](vb-bldc-driver-v1_4-schematic.pdf)
 
 ### SWD Interface
 
@@ -61,6 +62,11 @@ JST GH1.25, 6pin
 ### 3D model
 
 STEP model: [vb-bldc-driver-v1_4.stp](vb-bldc-driver-v1_4.stp)
+<br>
+Texture top: [vb-bldc-driver-v1_4-texture-top.png](vb-bldc-driver-v1_4-texture-top.png)
+<br>
+Texture bottom: [vb-bldc-driver-v1_4-texture-bottom](vb-bldc-driver-v1_4-texture-bottom.png)
+
 <p float="left">
 <img src="vb-bldc-driver-v1_4-render-1.png" width="300">
 <img src="vb-bldc-driver-v1_4-render-2.png" width="300">
