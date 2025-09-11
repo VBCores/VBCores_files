@@ -42,9 +42,9 @@ Software and start-up guide: https://github.com/VBCores/ethernet-can
 
 STEP model: [vb-eth-canfd-v0_91.stp](vb-eth-canfd-v0_91.stp)
 <br>
-Texture top: [vb-eth-canfd-v0_91-texture-top.png](vb-eth-canfd-v0_91.png)
+Texture top: [vb-eth-canfd-v0_91-texture-top.png](vb-eth-canfd-v0_91-texture-top.png)
 <br>
-Texture bottom: [vb-eth-canfd-v0_91.png](vb-eth-canfd-v0_91.png)
+Texture bottom: [vb-eth-canfd-v0_91-texture-top.png](vb-eth-canfd-v0_91-texture-bottom.png)
 
 
 <p float="left">
