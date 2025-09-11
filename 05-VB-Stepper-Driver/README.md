@@ -25,11 +25,12 @@ Based on [VB32G4 controller](https://github.com/VBCores/VBCores_files/tree/main/
 - Mount holes: 45x50 mm
 
 #### Pinout
-![VBCores Stepper motor driver TMC5160 pinout](VB_Stepper_Driver_v1_2_pinout.png)
+![VBCores Stepper motor driver TMC5160 pinout](vb-stepper-driver-v1_2-pinout.png)
+PDF version: [vb-stepper-driver-v1_2-pinout.pdf](vb-stepper-driver-v1_2-pinout.pdf)
 
 ### Schematic
-![VBCores Stepper motor driver TMC5160 schematic](VB_Stepper_1_2_schematic.png)
-
+![VBCores Stepper motor driver TMC5160 schematic](vb-stepper-driver-v1_2-schematic.png)
+PDF version: [vb-stepper-driver-v1_2-schematic.pdf](vb-stepper-driver-v1_2-schematic.pdf)
 
 ### SWD Interface
 
@@ -60,7 +61,12 @@ JST GH1.25, 6pin
 
 ### 3D model
 
-STEP model: [vb-stepper-driver-v1_2-cad.stp](vb-stepper-driver-v1_2-cad.stp)
+STEP model: [vb-stepper-driver-v1_2.stp](vb-stepper-driver-v1_2.stp)
+<br>
+Texture top: [vb-stepper-driver-v1_2-texture-top.png](vb-stepper-driver-v1_2-texture-top.png)
+<br>
+Texture bottom: [vb-stepper-driver-v1_2-texture-bottom.png](vb-stepper-driver-v1_2-texture-bottom.png)
+
 <p float="left">
 <img src="vb-stepper-driver-v1_2-render-1.png" width="300">
 <img src="vb-stepper-driver-v1_2-render-2.png" width="300">
