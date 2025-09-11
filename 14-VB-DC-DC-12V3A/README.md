@@ -27,9 +27,9 @@ PDF version: [vb-dcdc12v3a-v1_0-schematic.pdf](vb-dcdc12V3A-v1_0-schematic.pdf)
 
 STEP model: [vb-dcdc12v3a-v1_0.stp](vb-dcdc12v3a-v1_0.stp)
 <br>
-Texture top: [vb-dcdc12v3a-v1_0-texture-top.png](vb-dcdc12va-v1_0-texture-top.png)
+Texture top: [vb-dcdc12v3a-v1_0-texture-top.png](vb-dcdc12v3a-v1_0-texture-top.png)
 <br>
-Texture bottom: [vb-dcdc12V3A-v1_0-texture-bottom](vb-dcdc12v3a-v1_0-texture-bottom.png)
+Texture bottom: [vb-dcdc12v3a-v1_0-texture-bottom](vb-dcdc12v3a-v1_0-texture-bottom.png)
 
 <p float="left">
 <img src="vb-dcdc12v3a-v1_0-render-1.png" width="300">
