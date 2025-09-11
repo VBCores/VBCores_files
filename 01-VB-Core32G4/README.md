@@ -4,7 +4,9 @@
 The VBCores VB32G4 combines the processing power and rich peripherals of an STM32G474RE microcontroller with an 60V input power supply and FDCAN transceiver, all in a tiny (30.48mm x 38.1mm) form factor suitable for integration into products. It provides an affordable, convenient and flexible way to create electronic hardware in bot
 h development and production stages. Any embedded software developer can use this device with ease thanks to compatibility with Arduino IDE (STM32duino), STM32Cube and all other products compatible with STM32G4 MCUs.
 
-![VBCore VB32G4 Datadheet](Vbcore-G474RE-print_v1_3.png)
+## Pinout
+![VBCore VB32G4 Datadheet](vbcore32g4-v1_3-pinout.png)
+PDF version: [vbcore32g4-v1_3-pinout.pdf](vbcore32g4-v1_3-pinout.pdf)
 
 ### What's On Board
  1. **STM32G474RE:** the high performance STM32 MCU which features:
@@ -37,8 +39,8 @@ h development and production stages. Any embedded software developer can use thi
 
 
 ### Schematic
-
-![VBCore VB32G4 Schematic](VBCore32G4_schematic.png)
+![VBCore VB32G4 Schematic](vbcore32g4-v1_3-schematic.png)
+PDF version: [vbcore32g4-v1_3-schematic.pdf](vbcore32g4-v1_3-schematic.pdf)
 
 
 ## SWD Interface
@@ -57,8 +59,28 @@ JST GH1.25, 6pin
 
 ### Photos
 <p float="left">
-<img src="VBCore32G4-1.jpg" width="300"> <img src="VBCore32G4-2.jpg" width="300">
+<img src="vbcore32g4-v1_3-1.jpg" width="200">
+<img src="vbcore32g4-v1_3-2.jpg" width="200">
+<img src="vbcore32g4-v1_3-3.jpg" width="200">
+<img src="vbcore32g4-v1_3-4.jpg" width="200">
 </p>
+
+
+### 3D model
+
+STEP model: [vbcore32g4-v1_3.stp](vbcore32g4-v1_3.stp)
+<br>
+Texture top: [vbcore32g4-v1_3-texture-top.png](vbcore32g4-v1_3-texture-top.png)
+
+
+<p float="left">
+<img src="vbcore32g4-v1_3-render-1.png" width="300"> 
+</p>
+
+
+
+
+
 
 
 
