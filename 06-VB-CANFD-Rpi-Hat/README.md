@@ -18,13 +18,14 @@ The CAN FD HAT provides the ability to connect Raspberry Pi to the CAN FD bus. T
 - PCB: 65x56 mm
 - Mount holes: 58x49 mm D2.5
 
-### Schematic
-![VBCores Raspberry PI CAN FD HAT](VB-CANFD-Rpi-Hat-v1_0-schematic.png)
+### Pinout
+![VBCores Raspberry PI CAN FD HAT](vb-canfd-rpi-hat-v1_0-pinout.png)
+PDF version: [vb-canfd-rpi-hat-v1_0-pinout.pdf](vb-canfd-rpi-hat-v1_0-pinout.pdf)
 
-#### Datasheet
-![VBCores Raspberry PI CAN FD HAT](VB-CANFD-RPi-Hat-v1_0-scheme-png.png)
+#### Schematic
+![VBCores Raspberry PI CAN FD HAT](vb-canfd-rpi-hat-v1_0-schematic.png)
 
-
+PDF version: [vb-canfd-rpi-hat-v1_0-schematic.pdf](vb-canfd-rpi-hat-v1_0-schematic.pdf)
 
 ### Development Resources
 
@@ -33,11 +34,24 @@ The CAN FD HAT provides the ability to connect Raspberry Pi to the CAN FD bus. T
 
 ### Photos
 <p float="left">
-<img src="vb-rpi-can-hat-1.jpg" width="200">
-<img src="vb-rpi-can-hat-2.jpg" width="200">
-<img src="vb-rpi-can-hat-3.jpg" width="200">
+<img src="vb-canfd-rpi-hat-v1_0-1.jpg" width="200">
+<img src="vb-canfd-rpi-hat-v1_0-2.jpg" width="200">
+<img src="vb-canfd-rpi-hat-v1_0-3.jpg" width="200">
 </p>
 
+### 3D model
+
+STEP model: [vb-canfd-rpi-hat-v1_0.stp](vb-canfd-rpi-hat-v1_0.stp)
+<br>
+Texture top: [vb-canfd-rpi-hat-v1_0-texture-top.png](vb-canfd-rpi-hat-v1_0-texture-top.png)
+<br>
+Texture bottom: [vb-canfd-rpi-hat-v1_0-texture-bottom.png](vb-canfd-rpi-hat-v1_0-texture-bottom.png)
+
+
+<p float="left">
+<img src="vb-canfd-rpi-hat-v1_0-render-1.png" width="300"> 
+<img src="vb-canfd-rpi-hat-v1_0-render-2.png" width="300">
+</p>
 
 
 
