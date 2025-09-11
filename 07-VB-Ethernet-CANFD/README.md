@@ -20,9 +20,9 @@ Thus, the CAN-Ethernet converter acts as a bridge between low-level (CAN) hardwa
 - PCB: 71x56 mm
 - Mount holes: 65x50 mm D2.5
 
-#### Datasheet
-![VBCores Ethernet - CAN FD converter](vb-ethernet-CANFD-v0_91-scheme-png.png)
-
+#### Pinout
+![VBCores Ethernen - CAN-FD converter](vb-eth-canfd-v0_91-pinout.png)
+PDF version: [vb-eth-canfd-v0_91-pinout.pdf](vb-eth-canfd-v0_91-pinout.pdf)
 
 
 ### Development Resources
@@ -32,13 +32,25 @@ Software and start-up guide: https://github.com/VBCores/ethernet-can
 
 ### Photos
 <p float="left">
-<img src="vb-ethernet-can-v0_91-1.jpg" width="200">
-<img src="vb-ethernet-can-v0_91-2.jpg" width="200">
-<img src="vb-ethernet-can-v0_91-3.jpg" width="200">
+<img src="vb-eth-canfd-v0_91-1.jpg" width="200">
+<img src="vb-eth-canfd-v0_91-2.jpg" width="200">
+<img src="vb-eth-canfd-v0_91-3.jpg" width="200">
 </p>
 
 
+### 3D model
 
+STEP model: [vb-eth-canfd-v0_91.stp](vb-eth-canfd-v0_91.stp)
+<br>
+Texture top: [vb-eth-canfd-v0_91-texture-top.png](vb-eth-canfd-v0_91.png)
+<br>
+Texture bottom: [vb-eth-canfd-v0_91.png](vb-eth-canfd-v0_91.png)
+
+
+<p float="left">
+<img src="vb-eth-canfd-v0_91-render-1.png" width="300"> 
+<img src="vb-eth-canfd-v0_91-render-2.png" width="300">
+</p>
 
 
 
