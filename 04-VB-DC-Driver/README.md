@@ -26,11 +26,12 @@ Based on [VB32G4 controller](https://github.com/VBCores/VBCores_files/tree/main/
 - Mount holes: 45x50 mm
 
 #### Pinout
-![VBCores DC motor driver](VB_DC-Driver_1_3_pinout.png)
+![VBCores DC motor driver](vb-dc-driver-v1_3-pinout.png)
+PDF version: [vb-dc-driver-v1_3-schematic.pdf](vb-dc-driver-v1_3-schematic.pdf)
 
 ### Schematic
-![VBCores DC motor driver](VB_DC_1_3_schematic.png)
-
+![VBCores DC motor driver](vb-dc-driver-v1_3-schematic.png)
+PDF version: [vb-dc-driver-v1_3-schematic.pdf](vb-dc-driver-v1_3-schematic.pdf)
 
 
 ### SWD Interface for VBCore32G4
@@ -60,7 +61,13 @@ JST GH1.25, 6pin
 
 ### 3D model
 
-STEP model: [vb-dc-driver-v1_3-cad.stp](vb-dc-driver-v1_3-cad.stp)
+STEP model: [vb-dc-driver-v1_3.stp](vb-dc-driver-v1_3.stp)
+<br>
+Texture top: [vb-dc-driver-v1_3-texture-top.png](vb-dc-driver-v1_3-texture-top.png)
+<br>
+Texture bottom: [vb-dc-driver-v1_3-texture-bottom.png](vb-dc-driver-v1_3-texture-bottom.png)
+
+
 <p float="left">
 <img src="vb-dc-driver-v1_3-render-1.png" width="300">
 <img src="vb-dc-driver-v1_3-render-2.png" width="300">
