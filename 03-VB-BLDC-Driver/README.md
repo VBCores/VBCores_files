@@ -24,7 +24,7 @@ Based on [VB32G4 controller](https://github.com/VBCores/VBCores_files/tree/main/
 - Mount holes: 45x50 mm
 
 
-#### Datasheet
+#### Pinout
 ![VBCores BLDC motor driver](vb-bldc-driver-v1_4-pinout.png)
 PDF version: [vb-bldc-driver-v1_4-pinout.pdf](vb-bldc-driver-v1_4-pinout.pdf)
 
