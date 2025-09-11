@@ -9,8 +9,8 @@ Efficient 12V 3A DCDC converter for powering on-board computer and low-voltage d
 
 ### Photos
 <p float="left">
-<img src="vb-dcdc12v3a-v1_0-1.jpg" width="200">
-<img src="vb-dcdc12v3a-v1_0-2.jpg" width="200">
+<img src="vb-dcdc12v3a-v1_0-1.jpg" width="300">
+<img src="vb-dcdc12v3a-v1_0-2.jpg" width="300">
 </p>
 
 ### Dimensions
