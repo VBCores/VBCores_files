@@ -27,7 +27,7 @@ Based on [VB32G4 controller](https://github.com/VBCores/VBCores_files/tree/main/
 
 #### Pinout
 ![VBCores DC motor driver](vb-dc-driver-v1_3-pinout.png)
-PDF version: [vb-dc-driver-v1_3-schematic.pdf](vb-dc-driver-v1_3-schematic.pdf)
+PDF version: [vb-dc-driver-v1_3-pinout.pdf](vb-dc-driver-v1_3-pinout.pdf)
 
 ### Schematic
 ![VBCores DC motor driver](vb-dc-driver-v1_3-schematic.png)
