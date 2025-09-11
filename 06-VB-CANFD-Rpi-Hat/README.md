@@ -19,11 +19,11 @@ The CAN FD HAT provides the ability to connect Raspberry Pi to the CAN FD bus. T
 - Mount holes: 58x49 mm D2.5
 
 ### Pinout
-![VBCores Raspberry PI CAN FD HAT](vb-canfd-rpi-hat-v1_0-pinout.png)
+![VBCores Raspberry PI CAN-FD HAT](vb-canfd-rpi-hat-v1_0-pinout.png)
 PDF version: [vb-canfd-rpi-hat-v1_0-pinout.pdf](vb-canfd-rpi-hat-v1_0-pinout.pdf)
 
 #### Schematic
-![VBCores Raspberry PI CAN FD HAT](vb-canfd-rpi-hat-v1_0-schematic.png)
+![VBCores Raspberry PI CAN-FD HAT](vb-canfd-rpi-hat-v1_0-schematic.png)
 
 PDF version: [vb-canfd-rpi-hat-v1_0-schematic.pdf](vb-canfd-rpi-hat-v1_0-schematic.pdf)
 
