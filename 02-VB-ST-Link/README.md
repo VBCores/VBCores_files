@@ -8,7 +8,7 @@ For user convenience, we developed a custom miniature programmer board compatibl
 Additionally, a [small adapter board](https://github.com/VBCores/VBCores_files/tree/main/13-VB-STLink-Adapter) is available for standard ST-Link programmers, but without VCP (Virtual Com Port) support.
 
 
-#### Pinout
+### Pinout
 ![VBCores STLink 2.1](vb-stlink-v2_1-r1_3-pinout.png)
 PDF version: [vb-stlink-v2_1-r1_3-pinout.pdf](vb-stlink-v2_1-r1_3-pinout.pdf)
 
