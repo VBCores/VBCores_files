@@ -19,7 +19,7 @@ The device runs fork of open-source **[Universal-RC-Joystick](https://github.com
 PDF version: [vb-sbus-hid-v1_1-pinout.pdf](vb-sbus-hid-v1_1-pinout.pdf)
 
 ### Schematic
-![VBCores SBUS-HID](vb-sbus-hid_v1_1-schematic.png)
+![VBCores SBUS-HID](vb-sbus-hid-v1_1-schematic.png) 
 PDF version: [vb-sbus-hid-v1_1-schematic.pdf](vb-sbus-hid-v1_1-schematic.pdf)
 
 ### SWD Interface
@@ -43,12 +43,12 @@ Firmware: https://github.com/VBCores/8-Axis-Universal-RC-Joystick
 
 ### Photos
 <p float="left">
-<img src="vb-sbus-hid_v1_1-1.jpg" width="300">
-<img src="vb-sbus-hid_v1_1-2.jpg" width="300">
+<img src="vb-sbus-hid-v1_1-1.jpg" width="300">
+<img src="vb-sbus-hid-v1_1-2.jpg" width="300">
 </p>
 
 ### 3D model
-STEP model: [vb-sbus-hid_v1_1.stp](vb-sbus-hid_v1_1.stp)
+STEP model: [vb-sbus-hid-v1_1.stp](vb-sbus-hid_v1_1.stp)
 <p float="left">
 <img src="vb-sbus-hid-v1_1-render-1.png" width="300">
 <img src="vb-sbus-hid-v1_1-render-2.png" width="300">
