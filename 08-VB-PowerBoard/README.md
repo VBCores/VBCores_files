@@ -92,7 +92,7 @@ Texture bottom: [vb-powerboard-v1_2-texture-bottom](vb-powerboard-v1_2-texture-b
 <img src="vb-powerboard-v1_2-render-2.png" width="300">
 </p>
 
-### Usacases and other
+### Use cases and other
 
 Example of wiring Lanboo RGB buttons. Check carefully led voltage!
 
