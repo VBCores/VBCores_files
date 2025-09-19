@@ -1,2 +1,2 @@
 # VBCores_files
- CAD data for VBCores modules
+Documentation for VBCores electronics: hardware, schematic, CAD
