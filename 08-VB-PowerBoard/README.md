@@ -68,8 +68,55 @@ Out of the box software implements power and buzzer control only. For detailed d
 PDF version: [vb-powerboard-v1_2-schematic.pdf](vb-powerboard-v1_2-schematic.pdf)
 
 
-### Development Resources
+## Development Resources
 
+### Main Functions of VB PowerBoard
+
+- Battery protection from over-discharge and inrush current limitation
+- Robot and battery protection during short circuits
+- Robot protection when batteries are connected with reverse polarity
+- Multiplexing three independent power sources into two power buses - computer power bus and power consumer bus
+- Ability to connect external charger and charge "on the go" without disconnecting the computer bus
+- Monitoring power system status and transmitting it via FDCAN bus
+- Control of basic robot indicators - buzzer, LEDs, user buttons
+- Emergency robot shutdown when Big Red Button is pressed
+
+
+### Multiplexing
+
+PowerBoard has three input power channels: two controlled ("2" and "3") and one uncontrolled ("1"). Controlled channels withstand continuous current up to 30A, uncontrolled - up to 3A. Both controlled channels have bidirectional conductivity and pass current to their battery if the power bus voltage exceeds the battery voltage (for example, if a motor connected to the robot rotates under external forces). All three channels can be simultaneously connected to three different power sources, with the following statements being true:
+
+- Power buses can be simultaneously connected to only one of the channels
+- If there is voltage on the uncontrolled channel, controlled channels are automatically disconnected. Their discharge and charge are impossible in this case
+- If voltage is present on only one channel, it is connected automatically
+- If voltage is applied only to two controlled channels, the board can select a priority channel regardless of their battery status. Priority channel selection is configured by board firmware or command from the onboard computer
+- If the priority controlled channel is discharged but another controlled channel is charged - bus switching occurs automatically and seamlessly
+
+Current from different channels is not summed - the maximum available current is determined by the capabilities of the selected channel.
+
+### User Input/Output
+
+PowerBoard is enabled by connecting the **Enable contact to GND**. If the connector is not closed, the total board consumption from all sources is approximately zero. A closed **Emergency** connector disables the robot's power bus at the hardware level regardless of the board program status. Designed for connecting the Big Red Button.
+
+PowerBoard is equipped with two six-pin connectors for connecting RGB buttons and Buzzer. The outputs have a common anode, with voltage of 5V or 12V depending on the board jumper state.
+
+:::info
+**Cathodes are connected to ground through ULN2003, which is controlled by pins PC6, PC7, PC8, PC9 (connected to TIM3 channels). Inputs are connected to pins PB0, PB1, PB2, PB10. If built-in indication means are insufficient, you can use the integrated expansion port connected to I2C2 for communication with other boards.**
+:::
+
+### Firmware Modification
+
+The program for PowerBoard is divided into two parts: service and user. The service part is processed in **TIM6** and **TIM16** timer interrupts. The first services the **ADC1** data filtering subroutine. The second calls the board power switch control subroutine.
+
+**DO NOT MAKE CHANGES TO THESE CODE SECTIONS IF YOU DON'T UNDERSTAND WHAT YOU'RE DOING! Disruption of the service part of the program can lead to physical damage to the board, robot, and batteries in emergency situations like short circuits on the bus.**
+
+The user part of the program is intended for managing indication, communication with the onboard computer. It is preferable to perform these tasks in the _uavcan_setup()_ and _uavcan_spin()_ functions from _main()_. The interrupt priorities of **TIM6, TIM7** and **TIM16** should be defined as follows (in descending order):
+
+1. **TIM7**. Counts microseconds since program start.
+2. **TIM6**. Updates and filters data from **ADC1**.
+3. **TIM16**. Calls the board power switch control subroutine.
+
+User interrupt priorities **MUST** be lower than those of the above timers.
 
 
 
