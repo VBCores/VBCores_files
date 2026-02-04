@@ -5,10 +5,11 @@ An adapter board for the [VBCores CAN-FD HAT](https://github.com/VBCores/VBCores
 
 
 ### Features
+- Vin 6-50V 
 - **Quisck connectors**
 - - XH2.54 for CAN lines
 - - XT30 for power lines
-- **Power FUSE**
+- **Power FUSE 10A MAX**
 - **Power Switch**
 - **External controlls**
 - - Power In LED
@@ -34,6 +35,7 @@ PDF version: [vb-canhat-qc-v1_0-schematic.pdf] (vb-canhat-qc-v1_0-schematic.pdf)
 <p float="left">
 <img src="vb-canhat-qc-v1_0-1.jpg" width="300">
 <img src="vb-canhat-qc-v1_0-2.jpg" width="300">
+<img src="vb-canhat-qc-v1_0-3.jpg" width="300">
 
 </p>
 
