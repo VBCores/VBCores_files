@@ -4,15 +4,15 @@
 This compact drive unit is built for high-dynamic performance, perfect for demanding robotics projects. Choose between two gear ratios (10:1 or 36:1) to match your needs. It offers integrated CAN bus connectivity and full Cyphal protocol compatibility.
 
 <p float="left">
-  <img src="vb-drive-m4310r10_1.jpg" alt="vb-drive-4310Rx" widht="200"/>
-  <img src="vb-drive-m4310r10_2.jpg" alt="vb-drive-4310Rx" widht="200"/>
-  <img src="vb-drive-m4310r10_3.jpg" alt="vb-drive-4310Rx" widht="200"/>
-  <img src="vb-drive-m4310r10_4.jpg" alt="vb-drive-4310Rx" widht="200"/>
+  <img src="vb-drive-m4310r10_1.jpg" width="300">
+  <img src="vb-drive-m4310r10_2.jpg" width="300">
+  <img src="vb-drive-m4310r10_3.jpg" width="300">
+  <img src="vb-drive-m4310r10_4.jpg" width="300">
 </p>
 
 ## Technical Specifications 
 
-|| Parameters | M4310R10 | M4310R36 |
+| Parameters | M4310R10 | M4310R36 |
 | :--- | :---: | ---: |
 | Voltage Range | 12-48 V | 12-48 V |
 | Rated Voltage | 24 V | 24 V |
