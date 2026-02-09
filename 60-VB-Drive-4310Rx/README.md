@@ -14,7 +14,7 @@ This compact drive unit is built for high-dynamic performance, perfect for deman
 
 | Parameters | M4310R10 | M4310R36 |
 | :--- | :---: | ---: |
-| Voltage Range | 12-48 V | 12-48 V |
+| Voltage Range | 12-30 V | 12-30 V |
 | Rated Voltage | 24 V | 24 V |
 | No-load Current | 0.8 A | 0.8 A |
 | Rated Current | 2.0 A | 2.0 A |
@@ -36,7 +36,15 @@ This compact drive unit is built for high-dynamic performance, perfect for deman
 | Operating Temperature Range | -20 to 80 °C | -20 to 80 °C |
 | Storage Temperature Range | -65 to 125 °C | -65 to 125 °C |
 
-## Driver scheme
+
+### Driver pinout
+![VBCore M4310 driver pinout](vb-driver-4310x-v0_4-pinout.png)
+PDF version: [vb-canhat-qc-pinout.pdf](vb-driver-4310x-v0_4-pinout.pdf)
+
+
+### Driver Schematic
+![VBCore M4310 driver schematic](vb-driver-4310x-v0_4-schematic.png)
+PDF version: [vb-canhat-qc-v1_0-schematic.pdf] (vb-driver-4310x-v0_4--schematic.pdf)
 
 
 
