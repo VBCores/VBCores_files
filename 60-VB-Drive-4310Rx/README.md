@@ -44,7 +44,7 @@ PDF version: [vb-driver-4310x-v0_4-pinout.pdf](vb-driver-4310x-v0_4-pinout.pdf)
 
 ### Driver Schematic
 ![VBCore M4310 driver schematic](vb-driver-4310x-v0_4-schematic.png)
-PDF version: [vb-driver-4310x-v0_4-schematic.pdf] (vb-driver-4310x-v0_4-schematic.pdf)
+PDF version: [vb-driver-4310x-v0_4-schematic.pdf](vb-driver-4310x-v0_4-schematic.pdf)
 
 
 
