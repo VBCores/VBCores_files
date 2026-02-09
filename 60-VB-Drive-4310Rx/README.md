@@ -39,12 +39,12 @@ This compact drive unit is built for high-dynamic performance, perfect for deman
 
 ### Driver pinout
 ![VBCore M4310 driver pinout](vb-driver-4310x-v0_4-pinout.png)
-PDF version: [vb-canhat-qc-pinout.pdf](vb-driver-4310x-v0_4-pinout.pdf)
+PDF version: [vb-driver-4310x-v0_4-pinout.pdf](vb-driver-4310x-v0_4-pinout.pdf)
 
 
 ### Driver Schematic
 ![VBCore M4310 driver schematic](vb-driver-4310x-v0_4-schematic.png)
-PDF version: [vb-canhat-qc-v1_0-schematic.pdf] (vb-driver-4310x-v0_4--schematic.pdf)
+PDF version: [vb-driver-4310x-v0_4-schematic.pdf] (vb-driver-4310x-v0_4-schematic.pdf)
 
 
 
