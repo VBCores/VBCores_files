@@ -48,12 +48,13 @@ PDF version: [vb-driver-4310x-v0_4-schematic.pdf](vb-driver-4310x-v0_4-schematic
 
 
 
-## CAD models
+### CAD models
 
 - [STEP M4310R10](vb-drive-m4310r10-nolid-dummie.stp)
 - [STEP M4310R36](vb-drive-m4310r36-nolid-dummie.stp)
+- 
 
-## Characteristics curves for VB M4310R10
+### Characteristics curves for VB M4310R10
 
 <p>
   <a href="vb-drive-m4310r10-afch_speed.png" target="_blank">
@@ -85,7 +86,7 @@ PDF version: [vb-driver-4310x-v0_4-schematic.pdf](vb-driver-4310x-v0_4-schematic
 
 </p>
 
-## Characteristics curves for VB M4310R36
+### Characteristics curves for VB M4310R36
 
 Soon
 
