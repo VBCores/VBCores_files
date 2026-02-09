@@ -4,10 +4,10 @@
 This compact drive unit is built for high-dynamic performance, perfect for demanding robotics projects. Choose between two gear ratios (10:1 or 36:1) to match your needs. It offers integrated CAN bus connectivity and full Cyphal protocol compatibility.
 
 <p float="left">
-  <img src="vb-drive-m4310r10_1.jpg" width="300">
-  <img src="vb-drive-m4310r10_2.jpg" width="300">
-  <img src="vb-drive-m4310r10_3.jpg" width="300">
-  <img src="vb-drive-m4310r10_4.jpg" width="300">
+  <img src="vb-drive-m4310r10_1.jpg" width="200">
+  <img src="vb-drive-m4310r10_2.jpg" width="200">
+  <img src="vb-drive-m4310r10_3.jpg" width="200">
+  <img src="vb-drive-m4310r10_4.jpg" width="200">
 </p>
 
 ## Technical Specifications 
@@ -42,8 +42,8 @@ This compact drive unit is built for high-dynamic performance, perfect for deman
 
 ## CAD models
 
-- [STEP-модель M4310R10](vb-drive-m4310r10-nolid-dummie.stp)
-- [STEP-модель M4310R36](vb-drive-m4310r36-nolid-dummie.stp)
+- [STEP M4310R10](vb-drive-m4310r10-nolid-dummie.stp)
+- [STEP M4310R36](vb-drive-m4310r36-nolid-dummie.stp)
 
 ## Characteristics curves for VB M4310R10
 
