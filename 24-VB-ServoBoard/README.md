@@ -1,3 +1,5 @@
+[**English**](README.md) | [Русский](README.ru.md)
+
 # VBCores Servo Board v0.2
 
 ## Overview
