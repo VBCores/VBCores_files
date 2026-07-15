@@ -61,11 +61,11 @@ TI DRV8870, 45 V, 3.5 A brushed DC motor driver with PWM control.
 
 | Control       | PIN  | Notes    |
 | ------------- | ---- | -------- |
-| IN1 (Motor 1) | PA8  | TIM1_CH1 |
-| IN2 (Motor 1) | PA9  | TIM1_CH2 |
-| IN1 (Motor 2) | PC5  | TIM8_CH1 |
-| IN2 (Motor 2) | PC7  | TIM8_CH2 |
-| VREF          | PB14 | 3.3 A max |
+| IN1 (Motor 1) | PB6  | TIM4_CH1 |
+| IN2 (Motor 1) | PB4  |  		  |
+| IN1 (Motor 2) | PB7  | TIM4_CH2 |
+| IN2 (Motor 2) | PB5  | 	   	  |
+| VREF          | PB2 | 3.3 A max |
 | R_ISEN        | -    | 0.15 Ohm |
 
 ### Input Voltage Sensing
