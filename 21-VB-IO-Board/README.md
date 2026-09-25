@@ -2,7 +2,6 @@
 
 # VBCores IO Board v0.6
 
-## About the Board
 
 VBCores IO Board connects sensors, relays, and external loads to an STM32 microcontroller. It is based on the [VB32G4](../01-VB-Core32G4/README.md) module with an STM32G474RE microcontroller.
 
